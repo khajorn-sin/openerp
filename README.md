@@ -1,2 +1,2 @@
 # openerp
-Odoo
+Odoo on Readme-edit
